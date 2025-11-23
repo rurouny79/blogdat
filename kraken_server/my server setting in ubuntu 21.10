@@ -124,6 +124,9 @@ cpu cooler : nh-d15
       
   $ sudo netplan --debug apply
 
+1. thunar smb support
+    $ sudo apt install thunar-volman gvfs-backends gvfs-fuse
+
 ===== belows are for DOCKER (Ubuntu 20.04.3 LTS) =====
 
 1. smbd
