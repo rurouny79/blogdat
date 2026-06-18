@@ -335,6 +335,9 @@ fi
 1. update initramfs
   $ sudo update-initramfs -u
 
+1. easy web virt-manager plugin
+  $ sudo apt install cockpit cockpit-machines
+
 ===== belows are for Remote Streaming (QEMU/KVM, GPU PASSTHROUGH) =====
 
 1. enable port monitoring for security
