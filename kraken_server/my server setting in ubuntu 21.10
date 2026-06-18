@@ -337,6 +337,7 @@ fi
 
 1. easy web virt-manager plugin
   $ sudo apt install cockpit cockpit-machines
+  * https://192.168.0.x:9090
 
 ===== belows are for Remote Streaming (QEMU/KVM, GPU PASSTHROUGH) =====
 
