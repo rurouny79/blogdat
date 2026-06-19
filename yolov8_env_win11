@@ -1,1 +1,22 @@
-asdf
+[last update] : 2026/6/20
+
+[host env]
+  * virtual machine
+  * cpu : 5950x 16thread
+  * ram : 32gb
+  * gpu : RTX 4070 SUPER
+
+[install step]
+1. nvidia graphic driver = version 610.62
+  * install "610.62-desktop-win10-win11-64bit-international-dch-whql.exe" (GameReady Driver)
+  $ nvidia-smi
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.62                 KMD Version: 610.62        CUDA UMD Version: 13.3     |
+
+2. cuda toolkit = version 12.1.1
+  * install "cuda_12.1.1_531.14_windows.exe"
+
+3. python = version = version 3.11.9
+  * install "python-3.11.9-amd64.exe"
+
+[python virtual env setup]
