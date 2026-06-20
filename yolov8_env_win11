@@ -34,5 +34,6 @@
   $ pip install ultralytics
   $ yolo checks
 
-3. tensorrt
+3. tensorrt and etc
   $ pip install tensorrt
+  $ pip install nvidia-modelopt
