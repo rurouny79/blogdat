@@ -33,3 +33,6 @@
 2. ultralytics
   $ pip install ultralytics
   $ yolo checks
+
+3. tensorrt
+  $ pip install tensorrt
