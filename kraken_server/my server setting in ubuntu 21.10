@@ -32,7 +32,7 @@ cpu cooler : nh-d15
     wlp6s0:
       optional : true
       access-points:
-        "crinysus":
+        "ssidname":
           password: "xxxxxxxx"
       dhcp4: true
   $ sudo cloud-init clean
