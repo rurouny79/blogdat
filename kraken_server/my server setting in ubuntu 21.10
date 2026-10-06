@@ -32,8 +32,8 @@ cpu cooler : nh-d15
     wlp6s0:
       optional : true
       access-points:
-        "crinysus_5g":
-          password: "43704370"
+        "crinysus":
+          password: "xxxxxxxx"
       dhcp4: true
   $ sudo cloud-init clean
   $ sudo cloud-init init
@@ -350,8 +350,8 @@ fi
 
   $ sudo cat /etc/ssmtp/ssmtp.conf
 [sudo] ruro 암호:
-AuthUser=criny.master@gmail.com
-AuthPass=wjdluwkbemwjdelr
+AuthUser=xxxx@gmail.com
+AuthPass=xxxx
 mailhub=smtp.gmail.com:587
 UseSTARTTLS=YES
 
